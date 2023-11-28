@@ -1,5 +1,5 @@
 # mariobros_v2
-# README #
+## README ##
 
 The classes to build the agent are defined in `agent_model.py`.
    *  The `Agent::train` method uses `runCounter.txt` to keep track of the number for the next run.
