@@ -1,0 +1,11 @@
+Run: 7
+Date: 2023-11-27 23:51:52.904747
+
+Parameters:
+  gamma=0.99,         batch_size=64,                lr=0.002,
+  max_episodes=1000,   max_steps_per_episode=2000,
+  steps_until_sync=20, choose_action_frequency=1,
+  pre_train_steps=1,  final_exploration_step=50000
+
+
+Episode 0 (Step 614) - Moving Avg Reward: 0.010 Loss: 0.01600 Epsilon: 1.000 Avg Steps per Episode: 614.0

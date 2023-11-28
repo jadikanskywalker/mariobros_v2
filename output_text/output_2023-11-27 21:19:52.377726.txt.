@@ -1,0 +1,69 @@
+Run: 5
+Date: 2023-11-27 21:19:52.377726
+
+Parameters:
+  gamma=0.999,         batch_size=64,                lr=0.0007,
+  max_episodes=1000,   max_steps_per_episode=2000,
+  steps_until_sync=20, choose_action_frequency=1,
+  pre_train_steps=10,  final_exploration_step=200000
+
+Episode 0 (Step 675) - Moving Avg Reward: -0.990 Loss: 0.00002 Epsilon: 1.000
+*******************
+Episode 20 (Step 14609) - Moving Avg Reward: -0.704 Loss: 0.00541 Epsilon: 0.981
+*******************
+Episode 40 (Step 28926) - Moving Avg Reward: -0.795 Loss: 0.00536 Epsilon: 0.959
+*******************
+Episode 60 (Step 41608) - Moving Avg Reward: -0.744 Loss: 0.00977 Epsilon: 0.941
+*********
+Episode 70 (Step 5796) - Moving Avg Reward: -0.890 Loss: 0.00349 Epsilon: 0.992 Avg Steps per Episode: 579.6
+*********
+Episode 80 (Step 11202) - Moving Avg Reward: -0.690 Loss: 0.00554 Epsilon: 0.985 Avg Steps per Episode: 540.6
+*********
+Episode 90 (Step 16276) - Moving Avg Reward: -0.723 Loss: 0.00606 Epsilon: 0.978 Avg Steps per Episode: 507.4
+*********
+Episode 100 (Step 23786) - Moving Avg Reward: -0.490 Loss: 0.00538 Epsilon: 0.884 Avg Steps per Episode: 751.0
+*********
+Episode 110 (Step 29819) - Moving Avg Reward: -0.690 Loss: 0.01004 Epsilon: 0.856 Avg Steps per Episode: 603.3
+*********
+Episode 120 (Step 35227) - Moving Avg Reward: -0.790 Loss: 0.01739 Epsilon: 0.825 Avg Steps per Episode: 540.8
+*********
+Episode 130 (Step 41046) - Moving Avg Reward: -0.740 Loss: 0.01193 Epsilon: 0.798 Avg Steps per Episode: 581.9
+*********
+Episode 140 (Step 46885) - Moving Avg Reward: -0.710 Loss: 0.01360 Epsilon: 0.769 Avg Steps per Episode: 583.9
+*********
+Episode 150 (Step 53505) - Moving Avg Reward: -0.673 Loss: 0.01311 Epsilon: 0.734 Avg Steps per Episode: 662.0
+*********
+Episode 160 (Step 60309) - Moving Avg Reward: -0.719 Loss: 0.01238 Epsilon: 0.701 Avg Steps per Episode: 680.4
+*********
+Episode 170 (Step 67011) - Moving Avg Reward: -0.677 Loss: 0.01211 Epsilon: 0.669 Avg Steps per Episode: 670.2
+*********
+Episode 180 (Step 73681) - Moving Avg Reward: -0.712 Loss: 0.01867 Epsilon: 0.635 Avg Steps per Episode: 667.0
+*********
+Episode 190 (Step 80897) - Moving Avg Reward: -0.740 Loss: 0.01240 Epsilon: 0.602 Avg Steps per Episode: 721.6
+*********
+Episode 200 (Step 86510) - Moving Avg Reward: -0.770 Loss: 0.02630 Epsilon: 0.572 Avg Steps per Episode: 561.3
+*********
+Episode 210 (Step 91765) - Moving Avg Reward: -0.700 Loss: 0.01457 Epsilon: 0.544 Avg Steps per Episode: 525.5
+*********
+Episode 220 (Step 97808) - Moving Avg Reward: -0.690 Loss: 0.01739 Epsilon: 0.516 Avg Steps per Episode: 604.3
+*********
+Episode 230 (Step 103977) - Moving Avg Reward: -0.720 Loss: 0.01877 Epsilon: 0.482 Avg Steps per Episode: 616.9
+*********
+Episode 240 (Step 109389) - Moving Avg Reward: -0.740 Loss: 0.01488 Epsilon: 0.454 Avg Steps per Episode: 541.2
+*********
+Episode 250 (Step 114790) - Moving Avg Reward: -0.760 Loss: 0.01561 Epsilon: 0.431 Avg Steps per Episode: 540.1
+*********
+Episode 260 (Step 119659) - Moving Avg Reward: -0.750 Loss: 0.01576 Epsilon: 0.404 Avg Steps per Episode: 486.9
+*********
+Episode 270 (Step 125591) - Moving Avg Reward: -0.760 Loss: 0.01580 Epsilon: 0.373 Avg Steps per Episode: 593.2
+*********
+Episode 280 (Step 131710) - Moving Avg Reward: -0.670 Loss: 0.01270 Epsilon: 0.345 Avg Steps per Episode: 611.9
+*********
+Episode 290 (Step 138552) - Moving Avg Reward: -0.670 Loss: 0.01341 Epsilon: 0.311 Avg Steps per Episode: 684.2
+*********
+Episode 300 (Step 143189) - Moving Avg Reward: -0.650 Loss: 0.00878 Epsilon: 0.286 Avg Steps per Episode: 463.7
+*********
+Episode 310 (Step 149485) - Moving Avg Reward: -0.660 Loss: 0.01594 Epsilon: 0.258 Avg Steps per Episode: 629.6
+*********
+Episode 320 (Step 156028) - Moving Avg Reward: -0.650 Loss: 0.00930 Epsilon: 0.222 Avg Steps per Episode: 654.3
+*

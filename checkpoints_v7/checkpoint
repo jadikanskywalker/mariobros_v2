@@ -1,0 +1,2 @@
+model_checkpoint_path: "ep_340"
+all_model_checkpoint_paths: "ep_340"
