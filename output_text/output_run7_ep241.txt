@@ -86,3 +86,15 @@ Episode 370 (Step 170138) - Moving Avg Reward: -0.7900 Loss: 0.00001 Epsilon: 0.
 Episode 380 (Step 177624) - Moving Avg Reward: -0.6900 Loss: 0.00171 Epsilon: 0.100 Avg Steps Per Episode: 748.6
 *********
 Episode 390 (Step 184022) - Moving Avg Reward: -0.8900 Loss: 0.00000 Epsilon: 0.100 Avg Steps Per Episode: 639.8
+*********
+Episode 400 (Step 192808) - Moving Avg Reward: -0.9900 Loss: 0.00170 Epsilon: 0.100 Avg Steps Per Episode: 878.6
+*********
+Episode 410 (Step 199454) - Moving Avg Reward: -0.6900 Loss: 0.00001 Epsilon: 0.100 Avg Steps Per Episode: 664.6
+*********
+Episode 420 (Step 205505) - Moving Avg Reward: -0.6900 Loss: 0.00234 Epsilon: 0.100 Avg Steps Per Episode: 605.1
+*********
+Episode 430 (Step 212945) - Moving Avg Reward: -0.5900 Loss: 0.00000 Epsilon: 0.100 Avg Steps Per Episode: 744.0
+*********
+Episode 440 (Step 218762) - Moving Avg Reward: -0.5900 Loss: 0.00000 Epsilon: 0.100 Avg Steps Per Episode: 581.7
+*********
+Episode 450 (Step 224118) - Moving Avg Reward: -0.6900 Loss: 0.00000 Epsilon: 0.100 Avg Steps Per Episode: 535.6
